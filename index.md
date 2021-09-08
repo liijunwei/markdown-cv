@@ -3,6 +3,7 @@ layout: cv
 title: 李俊伟的个人简历
 ---
 # 李俊伟
+
 <br>
 Ruby-On-Rails程序员 | 25岁 | 17692365274 | ljw532344863@sina.com
 
@@ -53,13 +54,13 @@ Ruby-On-Rails程序员 | 25岁 | 17692365274 | ljw532344863@sina.com
 
 ## 个人技能
 
-熟练使用Ruby和 __Ruby-On-Rails__
+1. 熟练使用Ruby和 __Ruby-On-Rails__
 
-熟练使用Git对项目进行管理和与人协作
+2. 熟练使用Git对项目进行管理和与人协作
 
-熟悉Sidekiq、jbuilder、Grape、puma、capistrano等常用gem
+3. 熟悉Sidekiq、jbuilder、Grape、puma、capistrano等常用gem
 
-熟悉HTTP/SSH等常用协议
+4. 熟悉HTTP/SSH等常用协议
 
 掌握RESTful-Service-API的设计与开发，并有实际经验
 
