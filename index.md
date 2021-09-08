@@ -36,6 +36,7 @@ Ruby-On-Rails程序员 | 25岁 | 17692365274 | ljw532344863@sina.com
 
 任职于沃丰科技(Udesk)的SRE团队和客服系统(SaaS)团队, 负责监控告警和产品需求开发
 
+- <img src="media/picture.jpg" alt="typescript" width="300" height="300"/>
 
 ## 基本信息
 
