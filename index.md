@@ -16,81 +16,72 @@ Ruby-On-Rails程序员 | 25岁 | 17692365274 | ljw532344863@sina.com
 </div>
 
 
-## Currently
+## 自我简介
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### 近两年的web开发经验, 能熟练使用Ruby和Ruby-On-Rails实现需求和开发RESTfulApi, 本科阶段有1年美国密歇根大学交换生经验(成绩全A)
+### 擅长对流程的梳理和自动化, 熟悉阿里云和华为云监控服务, 擅长告警原因分析和处理, 全程参与过告警系统的调研、设计和落地
+### 任职于沃丰科技(Udesk)的SRE团队和客服系统(SAAS)团队, 负责监控告警和产品需求开发
 
 
-### Research interests
+个人信息
+==========
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
++ 姓名: 李俊伟
++ 年龄: 25
++ 联系方式: 17692365274
++ 学历: 华北电力大学本科
++ 邮箱: ljw532344863@sina.com
++ 博客园: https://www.cnblogs.com/leejunwei
++ blog: http://blog.bxzy.top
 
 
+## 个人技能
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
++ 熟练使用Ruby和Ruby-On-Rails
++ 熟练使用Git对项目进行管理和与人协作
++ 熟悉Sidekiq、jbuilder、Grape、puma、capistrano等常用gem
++ 熟悉HTTP/SSH等常用协议
++ 掌握RESTful-Service-API的设计与开发，并有实际经验
++ 掌握linux基础运维操作和自动化
++ 掌握网络基础，了解网络拓扑结构, 能排查和处理简单的网络问题
++ 了解MySQL, 能做简单的优化
++ 了解Rspec, 熟悉Minitest, 熟练编写单元测试和接口测试
++ 了解Redis，对缓存技术有一定了解
++ 了解Docker技术, 能用docker辅助开发
++ 了解常用的排序算法和查找算法的基本原理
++ 业务领域.SAAS客服系统-工单、监控、告警、运维、部署、自动化
++ 经验和软技能.有一套完整的工作流(命令行+编辑器), 熟练得使用他们帮助思考, 记录和处理任务
++ 经验和软技能.有主动沟通和反馈的习惯
++ 经验和软技能.从零开始调研和设计、开发、维护监控/告警系统的经验
++ 经验和软技能.有一定的调研和分析能力
++ 经验和软技能.有较好的英语阅读能力(英语6级)、较好的沟通和协作能力, 有记录、整理、总结、反思和分享的习惯
 
 
-## Occupation
+> TODO **只要呈现出2-3个亮点和特长**
 
-`1600`
-__Royal Mint__, London
+亮点.1 能处理复杂问题，能应对大规模的需求，并且不出错
+亮点.2 自学能力较强，上进好学，英语能力较强，做事认真踏实
+亮点.3 文档输出能力较好
+亮点.4 linux+自动化
 
-- Warden
-- Minted coins
+工作经历和教育经历
+==========
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+主要突出项目的难度、规模、挑战、职责，以及获得的认可和荣誉
+工作经历和教育经历，主要是对上述的个人技能的印证。不要东拉西扯，要紧紧地围绕着你的技能、特长和亮点来展开。
 
++ 工作经历.Udesk.调研/设计/开发/维护告警管理网关(AMG)，处理全公司各业务线、多云(阿里云、华为云、腾讯云)、近千台各类实例(ECS、RDS、SLB、站点监控等)的告警和聚合，受到全公司的认可
++ 工作经历.Udesk.SRE工程师, 参与63次应急响应流程(WarRoom)处理线上紧急问题，避免线上故障约15次
++ 工作经历.Udesk.客服系统-工单的功能开发，及时地实现客户需求
++ 工作经历.Udesk.梳理和沉淀各类文档50篇+(总结类、技术分享类、流程设计类、技术调研类、产品功能类等)
++ 工作经历.Udesk.维护和参与开发过多个运营相关系统(日报、巡检、计费、发版、中间件等6个系统)
++ 工作经历.参与过开源项目: 为阿里云MNS服务开发过部分Ruby-SDK; 为腾讯云监控Ruby-SDK提交过代码;
++ 教育经历.领导力培训班/演讲培训班/英语集训班/人生战略规划课程
++ 教育经历.华北电力大学 自学能力
++ 教育经历.美国密歇根大学(本科大四交换生) 英语能力
++ 工作经历.学习能力较强, 曾自学过 计算机网络/HTTP/Docker/Git/Linux/KVM/面向对象/Vagrant 等基础知识和常用工具, 在工作中使用，极大的提高了工作效率
 
+自我评价
+===========
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+工作态度积极，做事不推诿，只要对公司和个人有利，都会努力做好；勤奋踏实，热爱学习，有较好的英语能力。动手能力较强，有较强的抗压能力。为人乐观踏实，容易相处，乐于挑战和提升自己。
