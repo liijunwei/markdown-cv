@@ -43,7 +43,7 @@ Ruby-On-Rails程序员 | 25岁 | 17692365274 | ljw532344863@sina.com
 
 联系方式: 17692365274
 
-学历: 华北电力大学本科(2015-2019)
+学历: *华北电力大学本科*(2015-2019)
 
 邮箱: ljw532344863@sina.com
 
@@ -54,13 +54,13 @@ Ruby-On-Rails程序员 | 25岁 | 17692365274 | ljw532344863@sina.com
 
 ## 个人技能
 
-1. 熟练使用Ruby和 __Ruby-On-Rails__
+熟练使用Ruby和 __Ruby-On-Rails__
 
-2. 熟练使用Git对项目进行管理和与人协作
+熟练使用Git对项目进行管理和与人协作
 
-3. 熟悉Sidekiq、jbuilder、Grape、puma、capistrano等常用gem
+熟悉Sidekiq、jbuilder、Grape、puma、capistrano等常用gem
 
-4. 熟悉HTTP/SSH等常用协议
+熟悉HTTP/SSH等常用协议
 
 掌握RESTful-Service-API的设计与开发，并有实际经验
 
