@@ -1,9 +1,10 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: 李俊伟的个人简历
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# 李俊伟
+<br>
+Ruby-On-Rails程序员 | 17692365274 | ljw532344863@sina.com
 
 <style>
   @media print { @page { margin: 0; } 
@@ -11,8 +12,7 @@ Physicist, Mathematician, Cambridge professor.
 </style>
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="http://blog.bxzy.top">个人网站(blog部分)</a> | <a href="https://www.cnblogs.com/leejunwei">博客园</a>
 </div>
 
 
